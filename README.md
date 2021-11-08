@@ -1,4 +1,4 @@
-# Machine-Learning-Operations-Platforms---Stroke-Prediction
+# Machine Learning Operations
 # Project Goals: This is a comprehensive project consisting of procedures of machine learning Platforms
 
 ## 1. ClearML
