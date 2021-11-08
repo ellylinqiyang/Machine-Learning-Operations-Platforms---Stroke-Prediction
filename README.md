@@ -1,8 +1,14 @@
 # Machine Learning Operations
-# Project Goals: This is a comprehensive project consisting of procedures of machine learning Platforms
 
-## 1. ClearML
-
-## 2. [Microsoft Azure](https://github.com/Azure/MachineLearningNotebooks/blob/master/tutorials/image-classification-mnist-data/img-classification-part1-training.ipynb)
-
-## 3. Databricks
+## Project Description
+This repository is for the team project **MSCA 32021 Machine Learning Operations**.
+* Instructor: `Arnab Bose`
+* Team: MSCA Data Scientists 
+  * `Zhizhuo Li`
+  * `Renjie Liu`
+  * `Zhenli Min`
+  * `Elly Yang`
+  
+## Project Stages
+1. ClearML
+2. [Azure vs. Databricks](https://docs.google.com/presentation/d/15gjDHZHOE393VsrqyIZwUuys2laj8iIf/edit?usp=sharing&ouid=107895256866762792795&rtpof=true&sd=true)
